@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '~>3.1'
+gem 'rails', '3.2.3'
 
 gem 'sqlite3'
 
@@ -9,7 +9,7 @@ group :test do
   gem 'cucumber-rails'
   gem 'capybara'
   gem 'capybara-webkit'
-  gem 'capybara-screenshot', '~>0.1'
+  gem 'capybara-screenshot', '0.1.10'
   gem 'rspec'
 end
 
