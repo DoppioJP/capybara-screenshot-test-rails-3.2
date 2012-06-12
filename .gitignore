@@ -1,2 +1,8 @@
-log
-tmp
+.bundle
+db/*.sqlite3
+log/*.log
+/tmp/**/*
+.rvmrc
+.DS_Store
+config/database.yml
+.sass-cache/
