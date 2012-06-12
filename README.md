@@ -14,6 +14,11 @@ This test application was written by **Matthew O'Riordan**
  - [@mattheworiordan](http://twitter.com/#!/mattheworiordan)
  - [Linked In](http://www.linkedin.com/in/lemon)
 
+Note
+----
+
+Works with Ruby 1.9.2 and Rails 3.2.3 for now and doesn't generate png files yet, only html ones.
+
 License
 -------
 
